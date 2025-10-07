@@ -1,0 +1,6 @@
+name: welcome plugin
+main: me.jason.welcome.welcome
+version: 1.0.0
+api-version: 1.21
+author: Jason
+description: a simple plugin that welcomes players when they join the server
